@@ -1,0 +1,10 @@
+0 AtaTürk
+1 Hitler
+2 Mussolini
+3 Stalin
+4 Churchill
+5 Franco
+6 Daladier 
+7 Roosevelt
+8 HiroHito
+9 Mao Zedong
